@@ -1,0 +1,107 @@
+/* public/css/styles.css */
+
+.nav-link {
+    color: #015c0c; /* Green color */
+}
+
+.nav-link.active {
+    color: #000000; /* Yellow color */
+}
+
+body {
+    background-color:rgb(210, 216, 189); 
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: #4070b8;
+    text-align: center;
+    text-decoration-color: #000000;
+    padding: 5px 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;/* Keep the same font style */
+}
+
+.container {
+    text-align: center;
+    max-width: 800px; /* Adjusted max-width */
+    margin: auto;
+    padding: 20px;
+    background-color: #f8f9fa;
+    border-radius: 8px;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+h1 {
+    color: #007bff;
+    font-size: 36px;
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+h2 {
+    color: #205284;
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+p {
+    color: #000000;
+    font-size: 18px;
+    line-height: 1.5;
+    margin-bottom: 20px;
+}
+
+
+/* Style for the home page container */
+.home-container {
+    padding: 50px;
+}
+
+/* Style for the carousel home */
+.carousel-item img {
+    height: auto; 
+    object-fit: cover; 
+}
+
+/* Style for the About page container */
+.about-container {
+    max-width: 800px;
+    margin: 50px auto;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #f8f9fa;
+}
+
+/* Style for the cards about */
+.about-card {
+    background-color: #ffffff;
+    border: 1px solid #e9ecef;
+    border-radius: 10px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+
+/* Style for the paragraphs */
+.about-text {
+    font-size: 16px;
+    color: #000000;
+    line-height: 1.6;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+
+
+
+
+
+
+

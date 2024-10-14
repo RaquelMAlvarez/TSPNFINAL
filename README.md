@@ -20,3 +20,32 @@ Items should only be displayed while they are within date and usable
 Items should not be displayed once they have been selected 
 
 There should be an administrator role provided. Administrators should be able to add and delete users and items. 
+
+Prerequisites or dependencies needed to run the website: 
+
+To run the website locally, ensure you have the following dependencies installed: 
+
+Visual Studio Code 
+Node.js 
+Required npm packages: 
+bcrypt.js 
+body-parser 
+cookie-parser 
+dotenv 
+ejs 
+express-mustache 
+express-validator 
+express 
+json-web-token 
+jsonwebtoken 
+nedb 
+path 
+bootstrap 
+passport 
+passport-local 
+Getting Started: 
+Install dependencies using ‘npm install’ 
+Run the website with the command ‘node index’ 
+Access the website at http://localhost:9000 
+Admin login: Raquel /password 
+Users: Register any name available and password must content 8 characters 

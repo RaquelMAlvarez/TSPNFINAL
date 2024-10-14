@@ -1,4 +1,6 @@
 # TSPNFINAL
+#This is the final project carried out in the 3rd year of Software Business Development, in the subject of Web Development and Technology.
+
 Scottish Pantry Network (TSPN) Web Application 
 
 The Scottish Pantry Network (TSPN) has launched an innovative web application aimed at addressing the pressing issue of food insecurity amidst the current cost of living crisis. This platform serves as a vital bridge between individuals with surplus food to donate and local food pantries striving to meet the needs of their communities. 

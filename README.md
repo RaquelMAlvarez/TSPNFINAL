@@ -26,26 +26,48 @@ Prerequisites or dependencies needed to run the website:
 To run the website locally, ensure you have the following dependencies installed: 
 
 Visual Studio Code 
+
 Node.js 
+
 Required npm packages: 
+
 bcrypt.js 
+
 body-parser 
+
 cookie-parser 
+
 dotenv 
+
 ejs 
 express-mustache 
+
 express-validator 
+
 express 
+
 json-web-token 
+
 jsonwebtoken 
+
 nedb 
+
 path 
+
 bootstrap 
+
 passport 
+
 passport-local 
+
 Getting Started: 
+
 Install dependencies using ‘npm install’ 
+
 Run the website with the command ‘node index’ 
+
 Access the website at http://localhost:9000 
+
 Admin login: Raquel /password 
+
 Users: Register any name available and password must content 8 characters 

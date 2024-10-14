@@ -1,25 +1,26 @@
 # TSPNFINAL
+Scottish Pantry Network (TSPN) Web Application 
 
-The cost of living crisis has caused a surge in the number of people experiencing food insecurity. The Scottish Pantry Network (TSPN) work with local food pantries to help people in this situation.  Food pantries are located in local communities and provide members with heavily discounted food. 
-TSNP is aware that Glasgow City Council has recently been providing grants for small local organisations to grow food in locations such as community gardens and schools across the city. 
+The Scottish Pantry Network (TSPN) has launched an innovative web application aimed at addressing the pressing issue of food insecurity amidst the current cost of living crisis. This platform serves as a vital bridge between individuals with surplus food to donate and local food pantries striving to meet the needs of their communities. 
 
-The application should allow the users to do the following: 
+The platform features essential functionalities such as an About Us page, providing insight into the initiative's mission and impact, and a Contact Us page equipped with a user-friendly form for inquiries and feedback. With the goal of promoting sustainability and maximizing impact, the application integrates measures to ensure that donated items are within date and usable, thereby upholding quality standards. Furthermore, items are promptly removed from display once selected by a pantry, preventing duplication, and optimizing resource allocation, also the users can easily register to donate food items, while registered pantries gain access to a comprehensive inventory of available items. 
 
-People should be able to view an About Us page with information about the initiative and access a Contact Us page with a contact form 
+Central to the administration of the platform is the role of administrators, who possess the authority to manage users and items, ensuring smooth operation and adherence to organizational objectives. 
 
-Individuals with food to donate should be able to register for the application 
+In collaboration with local food pantries and supported by recent grants from Glasgow City Council, TSPN's web application represents a collaborative effort to alleviate food insecurity and foster resilience within communities across Scotland. 
 
-Registered users should be able to login and add items 
+ 
+Key Features: 
 
-Pantries should be able to browse to the site and view currently available items 
+About Us Page: Provides insights into TSPN's mission and impact 
 
-Pantries should be able to select items   
+Contact Us Page: Equipped with a user-friendly form for inquiries and feedback. 
 
-Items should only be displayed while they are within date and usable 
+Quality Assurance: Ensures donated items are within date and usable. 
 
-Items should not be displayed once they have been selected 
+Inventory Management: Registered users can easily donate food items, and pantries gain access to available items. 
 
-There should be an administrator role provided. Administrators should be able to add and delete users and items. 
+Administrator Role: Administrators manage users and items to ensure smooth operation. 
 
 Prerequisites or dependencies needed to run the website: 
 
@@ -68,6 +69,6 @@ Run the website with the command ‘node index’
 
 Access the website at http://localhost:9000 
 
-Admin login: Raquel /password 
+Admin login
 
 Users: Register any name available and password must content 8 characters 
